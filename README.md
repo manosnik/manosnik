@@ -1,4 +1,7 @@
 ### Hi there 👋
+🔭 I’m currently studying Electrical and Computer Engineer in Auth,Thessaloniki.
+📫 How to reach me: manos.nik7@gmail.com
+
 
 <!--
 **manosnik/manosnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
